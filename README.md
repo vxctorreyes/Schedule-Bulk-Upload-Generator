@@ -1,6 +1,5 @@
-============================
+
 README - Schedule Bulk Upload Generator
-============================
 
 OVERVIEW:
     This script automates the generation of a bulk upload CSV for scheduling
