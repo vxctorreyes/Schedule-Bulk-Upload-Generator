@@ -1,4 +1,3 @@
-
 README - Schedule Bulk Upload Generator
 
 OVERVIEW:
