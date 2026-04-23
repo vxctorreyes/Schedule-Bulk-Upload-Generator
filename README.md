@@ -1,3 +1,7 @@
+================================================================================
+README - Schedule Bulk Upload Generator
+================================================================================
+
 OVERVIEW:
     This script automates the generation of a bulk upload CSV for scheduling
     freight carrier pickups. It was built to eliminate manual data entry by
